@@ -3,7 +3,7 @@ div[id="myform"] {
     margin: auto;
     width: 75%;
     min-height: 25%;
-    color: green;
+    color: black;
 }
 
 input:invalid {
